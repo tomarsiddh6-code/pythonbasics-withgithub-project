@@ -1,4 +1,4 @@
-def math_add():
-    print("math is added")
+def math_add(a,b):
+    return a/b
 
-maths_add()
+print(math_add(10,0))
